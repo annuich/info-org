@@ -14,14 +14,13 @@ credits: true
 
 ## About the Collection
 
+I have collected images of pottery I’ve created since moving to Iowa City two years ago. Prior to starting at SLIS, I took a couple of pottery classes at the Robert A. Lee Community Recreation Center, resulting in various cups, bowls, plates, vases, and other decorative pieces from March 2023 to April 2024. My collection consists of pieces made using various techniques such as hand building, wheel throwing, coiling, or using an extruder. All pieces were created using white or red clay as well as the various glazes at the Recreation Center.
+
+## About the Site
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
