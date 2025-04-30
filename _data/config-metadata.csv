@@ -4,11 +4,12 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+glaze,Glaze,
+color,Color(s),
+clay,Clay,
+techniques,Techniques,
+weight,Weight,
+dimensions,Dimensions,
 type,Type,
 format,Format,
 rights,Rights,
