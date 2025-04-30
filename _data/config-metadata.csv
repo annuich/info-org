@@ -12,5 +12,7 @@ weight,Weight,
 dimensions,Dimensions,
 type,Type,
 format,Format,
+filedate,File Date,
+filesize,File Size,
 rights,Rights,
 rightsstatement,Rights Statement,,true
